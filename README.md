@@ -1,6 +1,6 @@
 # 🎮 Jogo da Adivinhação em Python
 
-Este é um projeto simples desenvolvido em Python para praticar conceitos fundamentais de programação, como loops de repetição, estruturas condicionais e manipulação de cores no terminal.
+Este é um projeto simples desenvolvido em Python para praticar conceitos fundamentais de programação, como **loops de repetição**, **estruturas condicionais** e **manipulação de cores no terminal**.
 
 ## 📝 Sobre o Desafio
 
